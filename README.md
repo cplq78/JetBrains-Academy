@@ -1,1 +1,3 @@
 # JetBrains-Academy
+
+Hyperskills projects
